@@ -88,6 +88,7 @@ $bg-primary: #3d3636;
   }
 }
 
+/* flex-grid */
 .flex-grid{
   .row{
     display: flex;
@@ -102,12 +103,5 @@ $bg-primary: #3d3636;
       height: 250px;
       object-fit: cover;
     }
-  }
-}
-
-.team {
-  .flex-items img{
-    border-radius: 50%;
-    width: 50%;
   }
 }
