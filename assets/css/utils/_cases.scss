@@ -1,0 +1,22 @@
+.cases img:hover{
+  opacity: 0.7;
+}
+
+/* Section header */
+.section-header{
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+
+  h2{
+    font-size: 40px;
+    margin: 20px 0;
+  }
+}
+
+.section-padding{
+  padding: 20px 20px 40px;
+}
